@@ -1,4 +1,4 @@
-src/main/resources/application.conf
+resources/application.conf
 
 
 # Created by https://www.gitignore.io/api/gradle,kotlin,intellij
